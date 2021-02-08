@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gutenberg | hugo landing page template</title>
-    <link>http://examplesite.com/</link>
+    <link>https://gcaracuel.github.io/hugo-theme-gutenberg/</link>
     <description>Recent content on Gutenberg | hugo landing page template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright By [@gcaracuel](https://github.com/gcaracuel/)</copyright>
-    <lastBuildDate>Fri, 01 Jan 2021 01:00:00 +0100</lastBuildDate><atom:link href="http://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 01:00:00 +0100</lastBuildDate><atom:link href="https://gcaracuel.github.io/hugo-theme-gutenberg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post Example 2</title>
-      <link>http://examplesite.com/blog/post2/</link>
+      <link>https://gcaracuel.github.io/hugo-theme-gutenberg/blog/post2/</link>
       <pubDate>Fri, 01 Jan 2021 01:00:00 +0100</pubDate>
       
-      <guid>http://examplesite.com/blog/post2/</guid>
+      <guid>https://gcaracuel.github.io/hugo-theme-gutenberg/blog/post2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     
     <item>
       <title>Post Example 1</title>
-      <link>http://examplesite.com/blog/post1/</link>
+      <link>https://gcaracuel.github.io/hugo-theme-gutenberg/blog/post1/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0100</pubDate>
       
-      <guid>http://examplesite.com/blog/post1/</guid>
+      <guid>https://gcaracuel.github.io/hugo-theme-gutenberg/blog/post1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     
     <item>
       <title>Who got longest sword?</title>
-      <link>http://examplesite.com/books/longest_sword/</link>
+      <link>https://gcaracuel.github.io/hugo-theme-gutenberg/books/longest_sword/</link>
       <pubDate>Sun, 17 Nov 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://examplesite.com/books/longest_sword/</guid>
+      <guid>https://gcaracuel.github.io/hugo-theme-gutenberg/books/longest_sword/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     
     <item>
       <title>Franklin 2020 Adventures</title>
-      <link>http://examplesite.com/books/franklin_2020/</link>
+      <link>https://gcaracuel.github.io/hugo-theme-gutenberg/books/franklin_2020/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://examplesite.com/books/franklin_2020/</guid>
+      <guid>https://gcaracuel.github.io/hugo-theme-gutenberg/books/franklin_2020/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     
     <item>
       <title>Franklin hides from Police</title>
-      <link>http://examplesite.com/books/franklin_police/</link>
+      <link>https://gcaracuel.github.io/hugo-theme-gutenberg/books/franklin_police/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://examplesite.com/books/franklin_police/</guid>
+      <guid>https://gcaracuel.github.io/hugo-theme-gutenberg/books/franklin_police/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     
     <item>
       <title>Nine-Eleven 3000</title>
-      <link>http://examplesite.com/books/9113000/</link>
+      <link>https://gcaracuel.github.io/hugo-theme-gutenberg/books/9113000/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://examplesite.com/books/9113000/</guid>
+      <guid>https://gcaracuel.github.io/hugo-theme-gutenberg/books/9113000/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     

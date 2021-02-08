@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>All our books on Gutenberg | hugo landing page template</title>
-    <link>http://examplesite.com/es/books/</link>
+    <link>https://gcaracuel.github.io/hugo-theme-gutenberg/es/books/</link>
     <description>Recent content in All our books on Gutenberg | hugo landing page template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <copyright>Copyright By [@gcaracuel](https://github.com/gcaracuel/)</copyright>
-    <lastBuildDate>Sun, 17 Nov 2019 11:22:16 +0600</lastBuildDate><atom:link href="http://examplesite.com/es/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Nov 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://gcaracuel.github.io/hugo-theme-gutenberg/es/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who got longest sword?</title>
-      <link>http://examplesite.com/es/books/longest_sword/</link>
+      <link>https://gcaracuel.github.io/hugo-theme-gutenberg/es/books/longest_sword/</link>
       <pubDate>Sun, 17 Nov 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://examplesite.com/es/books/longest_sword/</guid>
+      <guid>https://gcaracuel.github.io/hugo-theme-gutenberg/es/books/longest_sword/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     
     <item>
       <title>Franklin 2020 Adventures</title>
-      <link>http://examplesite.com/es/books/franklin_2020/</link>
+      <link>https://gcaracuel.github.io/hugo-theme-gutenberg/es/books/franklin_2020/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://examplesite.com/es/books/franklin_2020/</guid>
+      <guid>https://gcaracuel.github.io/hugo-theme-gutenberg/es/books/franklin_2020/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     
     <item>
       <title>Franklin hides from Police</title>
-      <link>http://examplesite.com/es/books/franklin_police/</link>
+      <link>https://gcaracuel.github.io/hugo-theme-gutenberg/es/books/franklin_police/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://examplesite.com/es/books/franklin_police/</guid>
+      <guid>https://gcaracuel.github.io/hugo-theme-gutenberg/es/books/franklin_police/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     
     <item>
       <title>Nine-Eleven 3000</title>
-      <link>http://examplesite.com/es/books/9113000/</link>
+      <link>https://gcaracuel.github.io/hugo-theme-gutenberg/es/books/9113000/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://examplesite.com/es/books/9113000/</guid>
+      <guid>https://gcaracuel.github.io/hugo-theme-gutenberg/es/books/9113000/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     
