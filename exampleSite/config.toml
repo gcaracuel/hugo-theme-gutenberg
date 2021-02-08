@@ -2,7 +2,6 @@
 baseurl = "http://examplesite.com/"
 title = "Gutenberg | hugo landing page template"
 theme = "hugo-theme-gutenberg"
-publishDir = "../hugo-theme-gutenberg"
 # post excert
 summarylength = "20"
 # google analytics
@@ -102,8 +101,8 @@ account = "https://twitter.com/<USER>"
 logo = "images/logo.png"
 logo_width = "100px"
 # Meta data
-description = "Libros con temática social. Nuestro primer libro: Conociendo a Enzo"
-author = "SocialBooks"
+description = "Example site to demostrate Gutenberg Hugo Theme"
+author = "gcaracuel"
 # currency
 currency = "€"
 # contact form action
