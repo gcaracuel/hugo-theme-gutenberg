@@ -1,0 +1,15 @@
+
+# theme.toml for the Vex Hugo theme
+
+name = "Gutenberg"
+license = "MIT"
+licenselink = "https://github.com/gcaracuel/hugo-theme-gutenberg/blob/master/LICENSE"
+description = "Gutenberg theme, use this if you run a micro pusblising website or do want to sell your book"
+homepage = "https://github.com/gcaracuel/hugo-theme-gutenberg/"
+tags = ["onepage", "bootstrap", "ecommerce", "single product", "product", "gethugothemes"]
+features = ["onepage", "product", "ecommerce", "google analytics", "mail contact form", "blog"]
+min_version = "0.62.2"
+
+[author]
+  name = "gcaracuel"
+  homepage = "https://github.com/gcaracuel"
