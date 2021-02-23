@@ -1,4 +1,4 @@
-![Gutenberg]()
+![Gutenberg](./readme_images/home.png)
 
 # Hugo Theme Gutenberg
 
@@ -6,7 +6,13 @@
 
 Created this theme to support a local micro publishing company, with this site they show & tell their readers about their books, sell them, vía Snipcart integration and keep their followers up to date with the blog.
 
+Originally this theme was a fork of [Vex](https://github.com/themefisher/vex-hugo) Hugo from [ThemeFisher](https://themefisher.com/)
+
 [Demo site](https://gcaracuel.github.io/hugo-theme-gutenberg/)
+
+| Homepage  | Blog  | Book  |
+|---|---|---|---|
+| ![Homepage](./readme_images/home_small.png) | ![Blog](./readme_images/blog.png) | ![Book](./readme_images/book.png) |
 
 ## Introduction
 
@@ -32,7 +38,7 @@ Clone / Download this repository to `theme` folder, feel free to copy content fr
 
 ## Demo site / Build your site
 
-![Example site](https://gcaracuel.github.io/hugo-theme-gutenberg/)
+[Example site](https://gcaracuel.github.io/hugo-theme-gutenberg/)
 
 Using exampleSite structure you could have a clear picture of how to build your own site using Gutenberg theme:
 
