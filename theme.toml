@@ -8,7 +8,7 @@ description = "Gutenberg theme, use this if you run a micro pusblising website o
 homepage = "https://github.com/gcaracuel/hugo-theme-gutenberg/"
 tags = ["onepage", "bootstrap", "ecommerce", "single product", "product", "gethugothemes"]
 features = ["onepage", "product", "ecommerce", "google analytics", "mail contact form", "blog"]
-min_version = "0.62.2"
+min_version = "0.78.0"
 
 [author]
   name = "gcaracuel"
