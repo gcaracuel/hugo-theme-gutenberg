@@ -1,4 +1,4 @@
-![Gutenberg](./readme_images/home.png)
+![Gutenberg](./readme_images/screenshot.png)
 
 # Hugo Theme Gutenberg
 
@@ -12,7 +12,7 @@ Originally this theme was a fork of [Vex](https://github.com/themefisher/vex-hug
 
 | Homepage  | Blog  | Book  |
 |---|---|---|
-| ![Homepage](./readme_images/home_small.png) | ![Blog](./readme_images/blog.png) | ![Book](./readme_images/book.png) |
+| ![Homepage](https://gcaracuel.github.icomhugo-theme-gutenberg/images/home.png?raw=true) | ![Blog](https://gcaracuel.github.icomhugo-theme-gutenberg/images/blog.png?raw=true) | ![Book](https://gcaracuel.github.icomhugo-theme-gutenberg/images/book.png?raw=true) |
 
 ## Introduction
 
