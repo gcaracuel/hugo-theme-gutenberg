@@ -1,5 +1,3 @@
-![Gutenberg](./readme_images/screenshot.png)
-
 # Hugo Theme Gutenberg
 
 > Micro publishers Hugo based shop & blog. 
@@ -12,7 +10,7 @@ Originally this theme was a fork of [Vex](https://github.com/themefisher/vex-hug
 
 | Homepage  | Blog  | Book  |
 |---|---|---|
-| ![Homepage](https://gcaracuel.github.icomhugo-theme-gutenberg/images/home.png?raw=true) | ![Blog](https://gcaracuel.github.icomhugo-theme-gutenberg/images/blog.png?raw=true) | ![Book](https://gcaracuel.github.icomhugo-theme-gutenberg/images/book.png?raw=true) |
+| ![Homepage](https://raw.githubusercontent.com/gcaracuel/hugo-theme-gutenberg/main/images/home.png) | ![Blog](https://raw.githubusercontent.com/gcaracuel/hugo-theme-gutenberg/main/images/blog.png) | ![Book](https://raw.githubusercontent.com/gcaracuel/hugo-theme-gutenberg/main/images/book.png) |
 
 ## Introduction
 
