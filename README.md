@@ -36,6 +36,12 @@ A hosting provider, Github Pages or any other site like this is fine.
 
 Clone / Download this repository to `theme` folder, feel free to copy content from exampleSite and start editing it
 
+At Hugo official website you can find different hosting options:
+
+* [Github Pages](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+* [Netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
+* [Gitlab Pages](https://gohugo.io/hosting-and-deployment/hosting-on-gitlab/)
+
 ## Demo site / Build your site
 
 [Example site](https://gcaracuel.github.io/hugo-theme-gutenberg/)
