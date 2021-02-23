@@ -11,7 +11,7 @@ Originally this theme was a fork of [Vex](https://github.com/themefisher/vex-hug
 [Demo site](https://gcaracuel.github.io/hugo-theme-gutenberg/)
 
 | Homepage  | Blog  | Book  |
-|---|---|---|---|
+|---|---|---|
 | ![Homepage](./readme_images/home_small.png) | ![Blog](./readme_images/blog.png) | ![Book](./readme_images/book.png) |
 
 ## Introduction
